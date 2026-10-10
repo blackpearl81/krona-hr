@@ -1,0 +1,308 @@
+{
+  "approval_status": "pending_review",
+  "components": {
+    "button": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "form": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "textInput": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "select": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "checkbox": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "radio": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "card": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "table": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "navigation": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ],
+      "documented_brand_constraints": [
+        {
+          "rule_id": "BR-LOGO-008",
+          "source": {
+            "document": "Wipro Brand Guide 2022",
+            "page": 8,
+            "original_wording": "In certain instances such as websites, follow the usual convention of placing the brand mark in the top left position."
+          }
+        }
+      ]
+    },
+    "modal": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "tabs": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "accordion": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "toast": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "tooltip": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "pagination": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "breadcrumb": {
+      "documentation_status": "not_specified_in_pdf",
+      "approval_status": "pending_review",
+      "enforceable_component_rules": [],
+      "unresolved": [
+        "dimensions",
+        "padding",
+        "states",
+        "colors_by_role",
+        "typography_by_role",
+        "border_radius",
+        "responsive_behavior",
+        "keyboard_behavior",
+        "focus_indicator"
+      ]
+    },
+    "icon": {
+      "documentation_status": "brand_guidance_only",
+      "approval_status": "pending_review",
+      "rule_ids": [
+        "BR-ICON-001",
+        "BR-ICON-002",
+        "BR-ICON-003",
+        "BR-ICON-004",
+        "BR-ICON-005"
+      ]
+    },
+    "chart": {
+      "documentation_status": "brand_guidance_only",
+      "approval_status": "pending_review",
+      "rule_ids": [
+        "BR-CHART-001",
+        "BR-CHART-002"
+      ]
+    },
+    "logo": {
+      "documentation_status": "documented",
+      "approval_status": "pending_review",
+      "rule_ids": [
+        "BR-LOGO-001",
+        "BR-LOGO-002",
+        "BR-LOGO-003",
+        "BR-LOGO-004",
+        "BR-LOGO-005",
+        "BR-LOGO-006",
+        "BR-LOGO-007",
+        "BR-LOGO-008",
+        "BR-LOGO-009",
+        "BR-LOGO-010",
+        "BR-LOGO-011",
+        "BR-LOGO-012"
+      ]
+    }
+  }
+}
