@@ -1,0 +1,295 @@
+{
+  "approval_status": "pending_review",
+  "issues": [
+    {
+      "id": "UN-001",
+      "topic": "brand_color_conflict",
+      "issue": "Primary strong pink #BE1D6A differs from ADA strong pink #BE266A; ADA RGB printed 190,29,106 matches #BE1D6A, not #BE266A.",
+      "pdf_pages": [
+        17,
+        19
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-002",
+      "topic": "brand_blue_naming",
+      "issue": "Primary Blue #355493 and WIPRO LOGO Blue #351a55 share Blue naming; ADA Wipro Blue #351a55. Define semantic role.",
+      "pdf_pages": [
+        17,
+        19
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-003",
+      "topic": "accessibility",
+      "issue": "PDF claims ADA colors at least WCAG AA but provides no foreground/background pairs, text sizes, states, or tested contrast. Individual colors cannot independently be WCAG AA.",
+      "pdf_pages": [
+        19
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": "Test every foreground/background combination against WCAG 2.2 AA before use.",
+      "proposal_type": "inferred_recommendation",
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-004",
+      "topic": "web_typography",
+      "issue": "A4 sizes on page 24 have no explicit unit in extracted table and are not web responsive font sizes.",
+      "pdf_pages": [
+        24
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": "Create approved rem typography scale after design review.",
+      "proposal_type": "inferred_recommendation",
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-005",
+      "topic": "fonts",
+      "issue": "No font files, web licensing, fallback stacks, or exact available weights provided.",
+      "pdf_pages": [
+        22,
+        23
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-006",
+      "topic": "logo_assets",
+      "issue": "PDF shows logos but provides no production SVG files or geometry to measure letter-o clear space programmatically.",
+      "pdf_pages": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-007",
+      "topic": "logo_conflicting_examples",
+      "issue": "Social media example page 39 says logo 100px, pages 54-56 say 140px; primary digital minimum 140px.",
+      "pdf_pages": [
+        6,
+        39,
+        54,
+        55,
+        56
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-008",
+      "topic": "web_layout",
+      "issue": "36px/18px grids are specified for A4/1200x630 creative, not responsive web app layouts.",
+      "pdf_pages": [
+        35,
+        36,
+        37
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-009",
+      "topic": "components",
+      "issue": "No explicit specs for buttons, forms, cards, tables, app navigation, modals, states or spacing.",
+      "pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-010",
+      "topic": "ui_accessibility",
+      "issue": "No keyboard navigation, focus indicators, touch targets, semantic labels, error messaging or reduced motion specifications.",
+      "pdf_pages": [
+        19
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-011",
+      "topic": "brand_palette",
+      "issue": "PDF says palette made up of five colors but primary page includes more named swatches and additional logo/solution groupings.",
+      "pdf_pages": [
+        16,
+        17
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-012",
+      "topic": "logo_misuse",
+      "issue": "Page 14 prohibited examples are image-led; individual captions require manual visual verification before encoding granular rules.",
+      "pdf_pages": [
+        14
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-013",
+      "topic": "print_vs_web",
+      "issue": "Print-only coated paper, CMYK/PMS, minimum mm, and co-branding dimensions should not automatically apply to web.",
+      "pdf_pages": [
+        4,
+        6,
+        7,
+        16,
+        17,
+        18
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-014",
+      "topic": "currency",
+      "issue": "Guide dated 2022; no confirmation this is the current approved Wipro brand standard.",
+      "pdf_pages": [
+        1
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-015",
+      "topic": "iconography",
+      "issue": "Disc size, icon stroke width, disc padding and icon sizes are not given.",
+      "pdf_pages": [
+        58,
+        59
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    },
+    {
+      "id": "UN-016",
+      "topic": "source_data_quality",
+      "issue": "ADA Strong Pink hex/RGB mismatch and minor transcription/typographical inconsistencies; preserve rather than silently normalize.",
+      "pdf_pages": [
+        19
+      ],
+      "priority": "high",
+      "resolution_status": "open",
+      "proposed_resolution": null,
+      "proposal_type": null,
+      "approval_status": "pending_review"
+    }
+  ]
+}

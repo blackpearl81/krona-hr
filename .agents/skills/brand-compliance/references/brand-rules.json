@@ -1,0 +1,727 @@
+{
+  "document": "Wipro Brand Guide 2022",
+  "approval_status": "pending_review",
+  "enforcement_default": "disabled",
+  "rules": [
+    {
+      "id": "BR-LOGO-001",
+      "category": "logo",
+      "requirement": "Prefer full-color primary brand mark where possible",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "asset_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 4,
+        "original_wording": "The primary brand mark in full color should always be used if possible."
+      }
+    },
+    {
+      "id": "BR-LOGO-002",
+      "category": "logo",
+      "requirement": "Use monochrome only when reproduction or contrast limitations justify it",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 4,
+        "original_wording": "in exceptional cases where production or contrast limitations prevent the use of the primary brand mark."
+      }
+    },
+    {
+      "id": "BR-LOGO-003",
+      "category": "logo",
+      "requirement": "Maintain clear space at least one letter-o height around all logo variants",
+      "source_type": "explicit_pdf",
+      "severity": "error",
+      "validation_method": "geometry_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 5,
+        "original_wording": "The minimum clear space for all brand mark versions is defined by the height (100%) of the letter ‘o’."
+      }
+    },
+    {
+      "id": "BR-LOGO-004",
+      "category": "logo",
+      "requirement": "Primary logo digital width >=140px",
+      "source_type": "explicit_pdf",
+      "severity": "error",
+      "validation_method": "dom_asset_measurement",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 6,
+        "original_wording": "Digital : Min 140 px"
+      }
+    },
+    {
+      "id": "BR-LOGO-005",
+      "category": "logo",
+      "requirement": "Secondary logo digital width >=50px",
+      "source_type": "explicit_pdf",
+      "severity": "error",
+      "validation_method": "dom_asset_measurement",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 6,
+        "original_wording": "Digital : Min 50 px"
+      }
+    },
+    {
+      "id": "BR-LOGO-006",
+      "category": "logo",
+      "requirement": "Wordmark digital width >=35px",
+      "source_type": "explicit_pdf",
+      "severity": "error",
+      "validation_method": "dom_asset_measurement",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 6,
+        "original_wording": "Digital : Min 35 px"
+      }
+    },
+    {
+      "id": "BR-LOGO-007",
+      "category": "logo",
+      "requirement": "Suggested logo size is 20% of shorter canvas dimension",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 6,
+        "original_wording": "To determine the best mark size, multiply the smallest side of the creative layout by 20%."
+      }
+    },
+    {
+      "id": "BR-LOGO-008",
+      "category": "logo",
+      "requirement": "Use top-left logo placement for websites",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 8,
+        "original_wording": "In certain instances such as websites, follow the usual convention of placing the brand mark in the top left position."
+      }
+    },
+    {
+      "id": "BR-LOGO-009",
+      "category": "logo",
+      "requirement": "Avoid centered logo placement when possible",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 8,
+        "original_wording": "Whenever possible avoid centering the brand mark."
+      }
+    },
+    {
+      "id": "BR-LOGO-010",
+      "category": "logo",
+      "requirement": "Choose black/white logo over photography for maximum contrast",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "visual_contrast_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 13,
+        "original_wording": "The appropriate monochrome option is selected to ensure maximum contrast against the background image."
+      }
+    },
+    {
+      "id": "BR-LOGO-011",
+      "category": "logo",
+      "requirement": "Do not unnaturally post-process photography to accommodate logo",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 13,
+        "original_wording": "unnatural post-production techniques are not be applied to accommodate the brand mark."
+      }
+    },
+    {
+      "id": "BR-LOGO-012",
+      "category": "logo",
+      "requirement": "Respect logo misuse examples; require human inspection of image examples",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 14,
+        "original_wording": "This section lists examples of brand mark misuse."
+      }
+    },
+    {
+      "id": "BR-COLOR-001",
+      "category": "color",
+      "requirement": "Blue is key brand color",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 16,
+        "original_wording": "We are a multicolored brand with blue being our key color."
+      }
+    },
+    {
+      "id": "BR-COLOR-002",
+      "category": "color",
+      "requirement": "White and light gray usually used as backgrounds",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 16,
+        "original_wording": "White and Light Gray are usually used for backgrounds."
+      }
+    },
+    {
+      "id": "BR-COLOR-003",
+      "category": "color",
+      "requirement": "Black usually used for body text",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 16,
+        "original_wording": "Black is usually used for body text."
+      }
+    },
+    {
+      "id": "BR-COLOR-004",
+      "category": "accessibility",
+      "requirement": "ADA palette recommended for inclusive digital content",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "palette_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 19,
+        "original_wording": "for creating digital content that is meant to be inclusive, we recommend using ADA colors."
+      }
+    },
+    {
+      "id": "BR-TYPE-001",
+      "category": "typography",
+      "requirement": "Use Proxima Nova for feature headings/subheadings",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "css_font_audit",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 22,
+        "original_wording": "Proxima is our display font used for feature headings and subheadings"
+      }
+    },
+    {
+      "id": "BR-TYPE-002",
+      "category": "typography",
+      "requirement": "Display headings use sentence case, never uppercase",
+      "source_type": "explicit_pdf",
+      "severity": "error",
+      "validation_method": "text_case_lint",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 22,
+        "original_wording": "It is always set in sentence case, never uppercase."
+      }
+    },
+    {
+      "id": "BR-TYPE-003",
+      "category": "typography",
+      "requirement": "Wipro Akkurat for secondary copy",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "css_font_audit",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 22,
+        "original_wording": "The typeface Wipro Akkurat is used for all secondary level copy."
+      }
+    },
+    {
+      "id": "BR-TYPE-004",
+      "category": "typography",
+      "requirement": "Arial when system font is required in on-screen apps",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "css_font_audit",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 23,
+        "original_wording": "Arial is the default font that will be used when a system font is required."
+      }
+    },
+    {
+      "id": "BR-TYPE-005",
+      "category": "typography",
+      "requirement": "Arial Bold for headings and Arial Regular for body when Arial used",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "css_font_audit",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 23,
+        "original_wording": "Arial Bold is used for headings and subheadings, and Arial Regular for body text."
+      }
+    },
+    {
+      "id": "BR-TYPE-006",
+      "category": "typography",
+      "requirement": "Italics discouraged in Arial",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 23,
+        "original_wording": "*Italics included but discouraged"
+      }
+    },
+    {
+      "id": "BR-TYPE-007",
+      "category": "typography",
+      "requirement": "Sentence case, auto line spacing, zero letter spacing, left flush in type hierarchy",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "css_and_content_audit",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 24,
+        "original_wording": "Case: Sentence Case; Line Spacing: Auto; Letter Spacing: 0; Justification: Left Flush"
+      }
+    },
+    {
+      "id": "BR-GRID-001",
+      "category": "grid",
+      "requirement": "A4 layout has 36px margins and gutters, 18px line separation",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "template_geometry_check",
+      "scope": "A4_document",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 36,
+        "original_wording": "36 px; 18 px line separation; 36 px column gutter"
+      }
+    },
+    {
+      "id": "BR-GRID-002",
+      "category": "grid",
+      "requirement": "1200x630 landscape canvas uses 36px margins/gutters and 18px grid spacing",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "template_geometry_check",
+      "scope": "landscape_social_presentation",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 37,
+        "original_wording": "1200 x 630 px; 36 px column gutters; 18 px grid space"
+      }
+    },
+    {
+      "id": "BR-GRID-003",
+      "category": "grid",
+      "requirement": "Limit social media header to three lines",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "visual_review",
+      "scope": "social_media",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 39,
+        "original_wording": "Limit header to 3 lines"
+      }
+    },
+    {
+      "id": "BR-GRID-004",
+      "category": "grid",
+      "requirement": "Use 140px logo for social media posts",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "template_geometry_check",
+      "scope": "social_media",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 55,
+        "original_wording": "Logo Size: 140 px"
+      }
+    },
+    {
+      "id": "BR-PHOTO-001",
+      "category": "photography",
+      "requirement": "Use diverse, inclusive photography",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 42,
+        "original_wording": "All images should reflect inclusion and diversity"
+      }
+    },
+    {
+      "id": "BR-PHOTO-002",
+      "category": "photography",
+      "requirement": "Avoid overcomplicated imagery and use clear subjects",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 45,
+        "original_wording": "Do not use overcomplicated imagery. Use images that have a clear subject."
+      }
+    },
+    {
+      "id": "BR-PHOTO-003",
+      "category": "photography",
+      "requirement": "Avoid unrealistic technology",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 46,
+        "original_wording": "Don’t use unrealistic technology"
+      }
+    },
+    {
+      "id": "BR-PHOTO-004",
+      "category": "photography",
+      "requirement": "Avoid artificial or unreal compositions",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 47,
+        "original_wording": "Avoid compositions that feel artificial or unreal."
+      }
+    },
+    {
+      "id": "BR-PHOTO-005",
+      "category": "photography",
+      "requirement": "Avoid crowded offices, superimposed tech, graphic technology, cheesy stock photos",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 49,
+        "original_wording": "Avoid subjects like: Crowded Offices; Super-Imposed Tech; Graphic Technology; Crowded Conference Rooms; Cheesy Stock Photos; Crowded Scenes In Public"
+      }
+    },
+    {
+      "id": "BR-PHOTO-006",
+      "category": "photography",
+      "requirement": "Do not use editorial-only licensed images for Wipro communications",
+      "source_type": "explicit_pdf",
+      "severity": "error",
+      "validation_method": "license_metadata_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 50,
+        "original_wording": "Images on stock libraries that have been marked for editorial use are not to be used in any Wipro communications."
+      }
+    },
+    {
+      "id": "BR-PHOTO-007",
+      "category": "photography",
+      "requirement": "Avoid search-engine-sourced images due to licensing restrictions",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "asset_provenance_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 50,
+        "original_wording": "Images found on search engines (such as Google) should also be avoided due to licensing restrictions."
+      }
+    },
+    {
+      "id": "BR-ICON-001",
+      "category": "iconography",
+      "requirement": "Keep icons in a disc",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "component_visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 58,
+        "original_wording": "Keep the icons in a disc."
+      }
+    },
+    {
+      "id": "BR-ICON-002",
+      "category": "iconography",
+      "requirement": "Avoid filled-in icon shapes",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "svg_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 58,
+        "original_wording": "Avoid filled-in shapes."
+      }
+    },
+    {
+      "id": "BR-ICON-003",
+      "category": "iconography",
+      "requirement": "Use brand colors for icons",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "svg_palette_lint",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 58,
+        "original_wording": "Stick to the brand colors."
+      }
+    },
+    {
+      "id": "BR-ICON-004",
+      "category": "iconography",
+      "requirement": "Avoid intricate icon shapes",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "manual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 58,
+        "original_wording": "Avoid overly intricate shapes."
+      }
+    },
+    {
+      "id": "BR-ICON-005",
+      "category": "iconography",
+      "requirement": "Social icons must be inside discs",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 59,
+        "original_wording": "Social Media Icons are to be used either in their original formats, but only in discs."
+      }
+    },
+    {
+      "id": "BR-CHART-001",
+      "category": "charts",
+      "requirement": "Use primary brand colors predominantly in charts",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "chart_palette_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 61,
+        "original_wording": "our primary colors are used as the predominant palette."
+      }
+    },
+    {
+      "id": "BR-CHART-002",
+      "category": "charts",
+      "requirement": "Prefer rounded graphs over square graphs",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 61,
+        "original_wording": "Choose a rounded graph over a square graph."
+      }
+    },
+    {
+      "id": "BR-INFO-001",
+      "category": "infographics",
+      "requirement": "Prefer white background",
+      "source_type": "explicit_pdf",
+      "severity": "info",
+      "validation_method": "visual_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 62,
+        "original_wording": "We recommend creating infographics on a white background."
+      }
+    },
+    {
+      "id": "BR-INFO-002",
+      "category": "infographics",
+      "requirement": "Use primary colors before supporting colors",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "palette_order_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 62,
+        "original_wording": "All primary brand colors should be used first, followed by the support colors."
+      }
+    },
+    {
+      "id": "BR-INFO-003",
+      "category": "infographics",
+      "requirement": "Use Akkurat family for infographic text",
+      "source_type": "explicit_pdf",
+      "severity": "warning",
+      "validation_method": "font_review",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 62,
+        "original_wording": "Any style of font from the Wipro Akkurat family - Bold, Regular or Italic - can be used for the text."
+      }
+    },
+    {
+      "id": "BR-INFO-004",
+      "category": "infographics",
+      "requirement": "Infographic text must be sentence case and left aligned",
+      "source_type": "explicit_pdf",
+      "severity": "error",
+      "validation_method": "text_case_and_alignment_lint",
+      "scope": "web_app",
+      "approval_status": "pending_review",
+      "enforcement_status": "disabled_until_approved",
+      "source": {
+        "document": "Wipro Brand Guide 2022",
+        "page": 62,
+        "original_wording": "The text must always be in sentence case and left-aligned."
+      }
+    }
+  ]
+}
